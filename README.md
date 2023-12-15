@@ -1,6 +1,8 @@
 # Amazon Product Scraper
 
 This is a simple web scraping project for fetching product details from Amazon.
+![Captura Web_15-12-2023_172322_localhost](https://github.com/AnaPaula74/test-Amazon-Scrape-new/assets/123080363/afcb274a-8958-46ba-9118-5fb56a1142a3)
+
 
 ## Setup and Execution
 
